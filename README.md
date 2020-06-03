@@ -1,2 +1,3 @@
 # hello-world-2
-THis is my second attempt at hello-world
+This is my second attempt at hello-world
+I am a newbie to git
